@@ -1,4 +1,4 @@
-package br.com.intelector.microservice.eurekaserver;
+package br.com.intelector.microservice.zipkinserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

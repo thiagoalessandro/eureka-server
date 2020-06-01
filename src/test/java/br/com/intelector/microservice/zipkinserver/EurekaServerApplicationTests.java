@@ -1,4 +1,4 @@
-package br.com.intelector.microservice.eurekaserver;
+package br.com.intelector.microservice.zipkinserver;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
